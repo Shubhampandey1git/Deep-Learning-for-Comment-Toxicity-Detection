@@ -2,3 +2,5 @@ data/
 *.csv
 
 *.pdf
+
+toxicity_env/
