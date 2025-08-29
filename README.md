@@ -12,7 +12,6 @@ This project provides an end-to-end solution for detecting and classifying toxic
 - [Setup and Installation](#setup-and-installation)
 - [How to Run the Application](#how-to-run-the-application)
 - [Model and Data Details](#model-and-data-details)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ---
